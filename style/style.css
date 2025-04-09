@@ -327,7 +327,18 @@ body {
     }
 
     .rodape__lista a {
-        font-size: 1rem;
+        font-size: 0.8rem;
+    }
+
+    .rodape__imagem {
+        margin-bottom: 1em;
+        width: 70px;
+    }
+
+    .rodape__texto {
+        margin: 0;
+        margin-top: 1em;
+        font-size: 0.7rem;
     }
 }
     
