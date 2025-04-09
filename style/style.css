@@ -238,6 +238,7 @@ body {
     }
 
     .dispositivos_titulo {
+        margin-top: 2em;
         font-size: 1.6rem;
     }
 
