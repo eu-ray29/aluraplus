@@ -200,6 +200,10 @@ body {
        margin: 2em 2em;
     }
 
+    .container__aviso {
+        font-size: 0.8rem;
+    }
+
     .sessao__principal {
         height: 100%;
     }
