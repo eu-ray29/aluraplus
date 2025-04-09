@@ -210,6 +210,11 @@ body {
         margin-top: 5em;
         text-align: center;
     }
+    
+    .secundario__telas {
+        display: flex;
+        flex-direction: column-reverse;
+    }
 
     .descricao__titulo {
         font-size: 1.8rem;
@@ -236,16 +241,22 @@ body {
     }
 
     .lista_link a {
-        font-size: 0.8rem;
+        font-size: 0.5rem;
+    }
+
+    .rodape__lista li{
+        display: inline-block;
     }
 
     .rodape__imagem {
+        margin-bottom: 1em;
         width: 60px;
     }
 
     .rodape__texto {
         margin: 0;
         margin-top: 1em;
+        font-size: 0.5rem;
     }
 
 }
